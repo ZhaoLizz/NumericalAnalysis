@@ -17,12 +17,12 @@ def split_factor_method(f, epsilon, r_init, s_init):
     roots = []
     while True:
         if n == 1:
-            roots.append(f.roots)
-            return roots
+            roots.append(f.roots[0])
+            return np.array(roots)
         elif n == 2:
             x1, x2 = f.roots
             roots.extend([x1, x2])
-            return roots
+            return np.array(roots)
         else:
             # 首先求b,计算出r_0,r_1
             b[n] = a[n]
