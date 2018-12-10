@@ -53,7 +53,7 @@ def split_factor_method(f, epsilon, r_init, s_init):
                 n = len(f)
                 a = f.c[::-1]
                 b = np.array(f.c, dtype=float)
-
+1
 
 if __name__ == '__main__':
     f = np.poly1d([1, -3.5, 2.75, 2.125, -3.875, 1.25])
