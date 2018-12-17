@@ -6,10 +6,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="84de0a2a-4b7d-45ff-9c98-91d94f801501" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/least_squares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/newton_polynomial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Administrator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quadratic_spline_interpolation.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/split_factor_method.py" beforeDir="false" afterPath="$PROJECT_DIR$/split_factor_method.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lagrange_polynomial.py" beforeDir="false" afterPath="$PROJECT_DIR$/lagrange_polynomial.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,8 +20,10 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/numerical_analysis$newton_method.coverage" NAME="newton_method Coverage Results" MODIFIED="1542959477525" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/numerical_analysis$lagrange_polynomial.coverage" NAME="lagrange_polynomial Coverage Results" MODIFIED="1544441342424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/numerical_analysis$split_factor_method.coverage" NAME="split_factor_method Coverage Results" MODIFIED="1543291336259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/numerical_analysis$least_squares.coverage" NAME="least_squares Coverage Results" MODIFIED="1543892811934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/numerical_analysis$quadratic_spline_interpolation.coverage" NAME="quadratic_spline_interpolation Coverage Results" MODIFIED="1544695413649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/numerical_analysis$secant_method.coverage" NAME="secant_method Coverage Results" MODIFIED="1542960816026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/numerical_analysis$bisiction_method.coverage" NAME="bisiction_method Coverage Results" MODIFIED="1542636785412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/numerical_analysis$newton_polynomial.coverage" NAME="newton_polynomial Coverage Results" MODIFIED="1544086508249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -31,13 +33,37 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="newton_polynomial.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="newton_polynomial.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/newton_polynomial.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="816">
-              <caret line="34" selection-start-line="34" selection-end-line="34" />
+            <state>
+              <caret selection-end-line="1" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="lagrange_polynomial.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lagrange_polynomial.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="723">
+              <caret line="54" column="46" selection-start-line="54" selection-start-column="46" selection-end-line="54" selection-end-column="46" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="quadratic_spline_interpolation.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/quadratic_spline_interpolation.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="591">
+              <caret line="71" column="26" selection-start-line="71" selection-start-column="26" selection-end-line="71" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#18#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -69,6 +95,8 @@
         <option value="$PROJECT_DIR$/least+squares.py" />
         <option value="$PROJECT_DIR$/least_squares.py" />
         <option value="$PROJECT_DIR$/newton_polynomial.py" />
+        <option value="$PROJECT_DIR$/lagrange_polynomial.py" />
+        <option value="$PROJECT_DIR$/quadratic_spline_interpolation.py" />
       </list>
     </option>
   </component>
@@ -82,10 +110,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1296" />
-    <option name="height" value="705" />
+    <option name="x" value="-12" />
+    <option name="y" value="-12" />
+    <option name="width" value="1944" />
+    <option name="height" value="1058" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -131,7 +159,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.newton_polynomial">
+  <component name="RunManager" selected="Python.quadratic_spline_interpolation">
     <configuration name="numerical_analysis" type="JupiterNotebook" factoryName="Jupyter Notebook">
       <module name="numerical_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -149,7 +177,7 @@
       <option name="ipnbHost" value="127.0.0.1" />
       <option name="ipnbPort" value="8888" />
     </configuration>
-    <configuration name="base_iterative_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="lagrange_polynomial" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="numerical_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -162,7 +190,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/base_iterative_method.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lagrange_polynomial.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -206,25 +234,6 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="newton_method" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="numerical_analysis" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/newton_method.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <configuration name="newton_polynomial" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="numerical_analysis" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -239,6 +248,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/newton_polynomial.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="quadratic_spline_interpolation" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="numerical_analysis" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/quadratic_spline_interpolation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -285,19 +313,19 @@
     <list>
       <item itemvalue="Jupyter Notebook.numerical_analysis" />
       <item itemvalue="Python.split_factor_method" />
-      <item itemvalue="Python.base_iterative_method" />
-      <item itemvalue="Python.newton_method" />
       <item itemvalue="Python.secant_method" />
       <item itemvalue="Python.least+squares" />
       <item itemvalue="Python.newton_polynomial" />
+      <item itemvalue="Python.lagrange_polynomial" />
+      <item itemvalue="Python.quadratic_spline_interpolation" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.quadratic_spline_interpolation" />
+        <item itemvalue="Python.lagrange_polynomial" />
         <item itemvalue="Python.newton_polynomial" />
         <item itemvalue="Python.least+squares" />
         <item itemvalue="Python.secant_method" />
-        <item itemvalue="Python.newton_method" />
-        <item itemvalue="Python.base_iterative_method" />
       </list>
     </recent_temporary>
   </component>
@@ -348,11 +376,11 @@
       <window_info anchor="right" x="0" y="0" width="434" height="866" id="Documentation" order="6" sideWeight="0.5010776" side_tool="true" weight="0.195629" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4995958" weight="0.45502645" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995958" weight="0.3570658" />
+      <window_info anchor="bottom" id="Python Console" order="10" sideWeight="0.4995958" weight="0.46925566" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4995958" weight="0.46494067" />
       <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4995958" weight="0.3279396" />
       <window_info anchor="right" id="Remote Host" order="3" sideWeight="0.4989224" weight="0.32995737" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24360341" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14285715" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="SciView" order="4" weight="0.32995737" />
@@ -380,6 +408,25 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/newton_polynomial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lagrange_polynomial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1144">
+          <caret line="54" column="46" lean-forward="true" selection-start-line="54" selection-start-column="46" selection-end-line="54" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/newton_polynomial.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="744">
@@ -575,12 +622,32 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lagrange_polynomial.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="723">
+          <caret line="54" column="46" selection-start-line="54" selection-start-column="46" selection-end-line="54" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/newton_polynomial.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="816">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
+        <state>
+          <caret selection-end-line="1" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quadratic_spline_interpolation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="591">
+          <caret line="71" column="26" selection-start-line="71" selection-start-column="26" selection-end-line="71" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
           </folding>
         </state>
       </provider>
